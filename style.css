@@ -1,0 +1,33 @@
+body{
+    font-family: Georgia;
+    background-image: linear-gradient(to right top, pink, rgb(248,160,222), rgb(208, 54, 208));
+}
+.header_div{
+    background: rgb(4, 0, 1);
+    color: pink;
+}
+.header_div p{
+    font-family: Georgia;
+    color: aquamarine;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: brown;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px purple;
+}
